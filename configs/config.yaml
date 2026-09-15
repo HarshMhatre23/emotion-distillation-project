@@ -1,0 +1,6 @@
+defaults:
+  - student: deberta_xsmall
+training:
+  epochs: 10
+  batch_size: 32
+  lr: 2e-5

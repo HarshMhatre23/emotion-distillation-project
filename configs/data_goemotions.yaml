@@ -1,0 +1,3 @@
+name: google-research-datasets/go_emotions
+config: simplified
+num_emotions: 27

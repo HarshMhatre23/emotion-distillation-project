@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "emotion-distillation"
+version = "1.0.0"
+description = "Knowledge Distillation of LLMs for Emotion Classification"
+requires-python = ">=3.9"
+
+[tool.setuptools.packages.find]
+include = ["src*"]

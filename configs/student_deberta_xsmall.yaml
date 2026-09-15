@@ -1,0 +1,2 @@
+backbone: microsoft/deberta-v3-xsmall
+hidden_dim: 384

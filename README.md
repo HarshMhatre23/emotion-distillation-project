@@ -736,7 +736,3 @@ Add them to the README like this (right after the Overview section):
 | **"What's the accuracy drop?"** | Roughly 8–15% relative drop in Macro F1 for a 50,000× parameter reduction. Pareto-optimal for most production use cases. |
 | **"How long did it take to train?"** | With a frozen encoder, ~30 seconds on CPU for 500 samples. Full fine-tuning takes ~15 minutes. |
 | **"Does it need internet?"** | No. After the initial download, the entire pipeline runs offline. |
-
----
-
-**End of Appendix — delete this section before making the repo public.**

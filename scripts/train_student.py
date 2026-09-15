@@ -7,6 +7,7 @@ from datasets import load_from_disk
 from src.models.student import EmotionStudent
 from src.utils.seed import set_seed
 
+#Hope you can make it more better
 
 def main():
     ap = argparse.ArgumentParser()
